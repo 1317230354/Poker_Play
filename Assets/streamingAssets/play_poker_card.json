@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "num": "2",
+    "colorType": 1,
+    "icon": "path1"
+  },
+  {
+    "id": 2,
+    "num": "3",
+    "colorType": 1,
+    "icon": "path1"
+  },
+  {
+    "id": 3,
+    "num": "4",
+    "colorType": 1,
+    "icon": "path1"
+  },
+  {
+    "id": 4,
+    "num": "5",
+    "colorType": 1,
+    "icon": "path1"
+  },
+  {
+    "id": 5,
+    "num": "6",
+    "colorType": 1,
+    "icon": "path1"
+  },
+  {
+    "id": 6,
+    "num": "7",
+    "colorType": 1,
+    "icon": "path1"
+  },
+  {
+    "id": 7,
+    "num": "8",
+    "colorType": 1,
+    "icon": "path1"
+  },
+  {
+    "id": 8,
+    "num": "9",
+    "colorType": 1,
+    "icon": "path1"
+  },
+  {
+    "id": 9,
+    "num": "10",
+    "colorType": 1,
+    "icon": "path1"
+  },
+  {
+    "id": 10,
+    "num": "J",
+    "colorType": 1,
+    "icon": "path1"
+  },
+  {
+    "id": 11,
+    "num": "Q",
+    "colorType": 1,
+    "icon": "path1"
+  },
+  {
+    "id": 12,
+    "num": "K",
+    "colorType": 1,
+    "icon": "path1"
+  },
+  {
+    "id": 13,
+    "num": "A",
+    "colorType": 1,
+    "icon": "path1"
+  },
+  {
+    "id": 14,
+    "num": "2",
+    "colorType": 2,
+    "icon": "path2"
+  },
+  {
+    "id": 15,
+    "num": "3",
+    "colorType": 2,
+    "icon": "path1"
+  },
+  {
+    "id": 16,
+    "num": "4",
+    "colorType": 2,
+    "icon": "path2"
+  },
+  {
+    "id": 17,
+    "num": "5",
+    "colorType": 2,
+    "icon": "path1"
+  },
+  {
+    "id": 18,
+    "num": "6",
+    "colorType": 2,
+    "icon": "path2"
+  },
+  {
+    "id": 19,
+    "num": "7",
+    "colorType": 2,
+    "icon": "path1"
+  },
+  {
+    "id": 20,
+    "num": "8",
+    "colorType": 2,
+    "icon": "path2"
+  },
+  {
+    "id": 21,
+    "num": "9",
+    "colorType": 2,
+    "icon": "path1"
+  },
+  {
+    "id": 22,
+    "num": "10",
+    "colorType": 2,
+    "icon": "path2"
+  },
+  {
+    "id": 23,
+    "num": "J",
+    "colorType": 2,
+    "icon": "path1"
+  },
+  {
+    "id": 24,
+    "num": "Q",
+    "colorType": 2,
+    "icon": "path2"
+  },
+  {
+    "id": 25,
+    "num": "K",
+    "colorType": 2,
+    "icon": "path1"
+  },
+  {
+    "id": 26,
+    "num": "A",
+    "colorType": 2,
+    "icon": "path2"
+  },
+  {
+    "id": 27,
+    "num": "2",
+    "colorType": 3,
+    "icon": "path3"
+  },
+  {
+    "id": 28,
+    "num": "3",
+    "colorType": 3,
+    "icon": "path3"
+  },
+  {
+    "id": 29,
+    "num": "4",
+    "colorType": 3,
+    "icon": "path3"
+  },
+  {
+    "id": 30,
+    "num": "5",
+    "colorType": 3,
+    "icon": "path3"
+  },
+  {
+    "id": 31,
+    "num": "6",
+    "colorType": 3,
+    "icon": "path3"
+  },
+  {
+    "id": 32,
+    "num": "7",
+    "colorType": 3,
+    "icon": "path3"
+  },
+  {
+    "id": 33,
+    "num": "8",
+    "colorType": 3,
+    "icon": "path3"
+  },
+  {
+    "id": 34,
+    "num": "9",
+    "colorType": 3,
+    "icon": "path3"
+  },
+  {
+    "id": 35,
+    "num": "10",
+    "colorType": 3,
+    "icon": "path3"
+  },
+  {
+    "id": 36,
+    "num": "J",
+    "colorType": 3,
+    "icon": "path3"
+  },
+  {
+    "id": 37,
+    "num": "Q",
+    "colorType": 3,
+    "icon": "path3"
+  },
+  {
+    "id": 38,
+    "num": "K",
+    "colorType": 3,
+    "icon": "path3"
+  },
+  {
+    "id": 39,
+    "num": "A",
+    "colorType": 3,
+    "icon": "path3"
+  },
+  {
+    "id": 40,
+    "num": "2",
+    "colorType": 4,
+    "icon": "path4"
+  },
+  {
+    "id": 41,
+    "num": "3",
+    "colorType": 4,
+    "icon": "path4"
+  },
+  {
+    "id": 42,
+    "num": "4",
+    "colorType": 4,
+    "icon": "path4"
+  },
+  {
+    "id": 43,
+    "num": "5",
+    "colorType": 4,
+    "icon": "path4"
+  },
+  {
+    "id": 44,
+    "num": "6",
+    "colorType": 4,
+    "icon": "path4"
+  },
+  {
+    "id": 45,
+    "num": "7",
+    "colorType": 4,
+    "icon": "path4"
+  },
+  {
+    "id": 46,
+    "num": "8",
+    "colorType": 4,
+    "icon": "path4"
+  },
+  {
+    "id": 47,
+    "num": "9",
+    "colorType": 4,
+    "icon": "path4"
+  },
+  {
+    "id": 48,
+    "num": "10",
+    "colorType": 4,
+    "icon": "path4"
+  },
+  {
+    "id": 49,
+    "num": "J",
+    "colorType": 4,
+    "icon": "path4"
+  },
+  {
+    "id": 50,
+    "num": "Q",
+    "colorType": 4,
+    "icon": "path4"
+  },
+  {
+    "id": 51,
+    "num": "K",
+    "colorType": 4,
+    "icon": "path4"
+  },
+  {
+    "id": 52,
+    "num": "A",
+    "colorType": 4,
+    "icon": "path4"
+  }
+]
