@@ -179,6 +179,21 @@ DocProject/Help/html
 # Click-Once directory
 publish/
 
+# Unity
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
 # Publish Web Output
 *.[Pp]ublish.xml
 *.azurePubxml
