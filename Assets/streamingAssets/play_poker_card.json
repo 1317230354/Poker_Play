@@ -1,314 +1,522 @@
 [
   {
-    "id": 1,
-    "num": "2",
-    "colorType": 1,
-    "icon": "path1"
+    "": "",
+    "ID": 1,
+    "CardChar": "2",
+    "ColorType": 1,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 1
   },
   {
-    "id": 2,
-    "num": "3",
-    "colorType": 1,
-    "icon": "path1"
+    "": "",
+    "ID": 2,
+    "CardChar": "3",
+    "ColorType": 1,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 2
   },
   {
-    "id": 3,
-    "num": "4",
-    "colorType": 1,
-    "icon": "path1"
+    "": "",
+    "ID": 3,
+    "CardChar": "4",
+    "ColorType": 1,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 3
   },
   {
-    "id": 4,
-    "num": "5",
-    "colorType": 1,
-    "icon": "path1"
+    "": "",
+    "ID": 4,
+    "CardChar": "5",
+    "ColorType": 1,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 4
   },
   {
-    "id": 5,
-    "num": "6",
-    "colorType": 1,
-    "icon": "path1"
+    "": "",
+    "ID": 5,
+    "CardChar": "6",
+    "ColorType": 1,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 5
   },
   {
-    "id": 6,
-    "num": "7",
-    "colorType": 1,
-    "icon": "path1"
+    "": "",
+    "ID": 6,
+    "CardChar": "7",
+    "ColorType": 1,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 6
   },
   {
-    "id": 7,
-    "num": "8",
-    "colorType": 1,
-    "icon": "path1"
+    "": "",
+    "ID": 7,
+    "CardChar": "8",
+    "ColorType": 1,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 7
   },
   {
-    "id": 8,
-    "num": "9",
-    "colorType": 1,
-    "icon": "path1"
+    "": "",
+    "ID": 8,
+    "CardChar": "9",
+    "ColorType": 1,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 8
   },
   {
-    "id": 9,
-    "num": "10",
-    "colorType": 1,
-    "icon": "path1"
+    "": "",
+    "ID": 9,
+    "CardChar": "10",
+    "ColorType": 1,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 9
   },
   {
-    "id": 10,
-    "num": "J",
-    "colorType": 1,
-    "icon": "path1"
+    "": "",
+    "ID": 10,
+    "CardChar": "J",
+    "ColorType": 1,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 10
   },
   {
-    "id": 11,
-    "num": "Q",
-    "colorType": 1,
-    "icon": "path1"
+    "": "",
+    "ID": 11,
+    "CardChar": "Q",
+    "ColorType": 1,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 11
   },
   {
-    "id": 12,
-    "num": "K",
-    "colorType": 1,
-    "icon": "path1"
+    "": "",
+    "ID": 12,
+    "CardChar": "K",
+    "ColorType": 1,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 12
   },
   {
-    "id": 13,
-    "num": "A",
-    "colorType": 1,
-    "icon": "path1"
+    "": "",
+    "ID": 13,
+    "CardChar": "A",
+    "ColorType": 1,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 13
   },
   {
-    "id": 14,
-    "num": "2",
-    "colorType": 2,
-    "icon": "path2"
+    "": "",
+    "ID": 14,
+    "CardChar": "2",
+    "ColorType": 2,
+    "CardColor": "path2",
+    "CardFront": "path2",
+    "CardBack": "path2",
+    "Weight": 1
   },
   {
-    "id": 15,
-    "num": "3",
-    "colorType": 2,
-    "icon": "path1"
+    "": "",
+    "ID": 15,
+    "CardChar": "3",
+    "ColorType": 2,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 2
   },
   {
-    "id": 16,
-    "num": "4",
-    "colorType": 2,
-    "icon": "path2"
+    "": "",
+    "ID": 16,
+    "CardChar": "4",
+    "ColorType": 2,
+    "CardColor": "path2",
+    "CardFront": "path2",
+    "CardBack": "path2",
+    "Weight": 3
   },
   {
-    "id": 17,
-    "num": "5",
-    "colorType": 2,
-    "icon": "path1"
+    "": "",
+    "ID": 17,
+    "CardChar": "5",
+    "ColorType": 2,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 4
   },
   {
-    "id": 18,
-    "num": "6",
-    "colorType": 2,
-    "icon": "path2"
+    "": "",
+    "ID": 18,
+    "CardChar": "6",
+    "ColorType": 2,
+    "CardColor": "path2",
+    "CardFront": "path2",
+    "CardBack": "path2",
+    "Weight": 5
   },
   {
-    "id": 19,
-    "num": "7",
-    "colorType": 2,
-    "icon": "path1"
+    "": "",
+    "ID": 19,
+    "CardChar": "7",
+    "ColorType": 2,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 6
   },
   {
-    "id": 20,
-    "num": "8",
-    "colorType": 2,
-    "icon": "path2"
+    "": "",
+    "ID": 20,
+    "CardChar": "8",
+    "ColorType": 2,
+    "CardColor": "path2",
+    "CardFront": "path2",
+    "CardBack": "path2",
+    "Weight": 7
   },
   {
-    "id": 21,
-    "num": "9",
-    "colorType": 2,
-    "icon": "path1"
+    "": "",
+    "ID": 21,
+    "CardChar": "9",
+    "ColorType": 2,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 8
   },
   {
-    "id": 22,
-    "num": "10",
-    "colorType": 2,
-    "icon": "path2"
+    "": "",
+    "ID": 22,
+    "CardChar": "10",
+    "ColorType": 2,
+    "CardColor": "path2",
+    "CardFront": "path2",
+    "CardBack": "path2",
+    "Weight": 9
   },
   {
-    "id": 23,
-    "num": "J",
-    "colorType": 2,
-    "icon": "path1"
+    "": "",
+    "ID": 23,
+    "CardChar": "J",
+    "ColorType": 2,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 10
   },
   {
-    "id": 24,
-    "num": "Q",
-    "colorType": 2,
-    "icon": "path2"
+    "": "",
+    "ID": 24,
+    "CardChar": "Q",
+    "ColorType": 2,
+    "CardColor": "path2",
+    "CardFront": "path2",
+    "CardBack": "path2",
+    "Weight": 11
   },
   {
-    "id": 25,
-    "num": "K",
-    "colorType": 2,
-    "icon": "path1"
+    "": "",
+    "ID": 25,
+    "CardChar": "K",
+    "ColorType": 2,
+    "CardColor": "path1",
+    "CardFront": "path1",
+    "CardBack": "path1",
+    "Weight": 12
   },
   {
-    "id": 26,
-    "num": "A",
-    "colorType": 2,
-    "icon": "path2"
+    "": "",
+    "ID": 26,
+    "CardChar": "A",
+    "ColorType": 2,
+    "CardColor": "path2",
+    "CardFront": "path2",
+    "CardBack": "path2",
+    "Weight": 13
   },
   {
-    "id": 27,
-    "num": "2",
-    "colorType": 3,
-    "icon": "path3"
+    "": "",
+    "ID": 27,
+    "CardChar": "2",
+    "ColorType": 3,
+    "CardColor": "path3",
+    "CardFront": "path3",
+    "CardBack": "path3",
+    "Weight": 1
   },
   {
-    "id": 28,
-    "num": "3",
-    "colorType": 3,
-    "icon": "path3"
+    "": "",
+    "ID": 28,
+    "CardChar": "3",
+    "ColorType": 3,
+    "CardColor": "path3",
+    "CardFront": "path3",
+    "CardBack": "path3",
+    "Weight": 2
   },
   {
-    "id": 29,
-    "num": "4",
-    "colorType": 3,
-    "icon": "path3"
+    "": "",
+    "ID": 29,
+    "CardChar": "4",
+    "ColorType": 3,
+    "CardColor": "path3",
+    "CardFront": "path3",
+    "CardBack": "path3",
+    "Weight": 3
   },
   {
-    "id": 30,
-    "num": "5",
-    "colorType": 3,
-    "icon": "path3"
+    "": "",
+    "ID": 30,
+    "CardChar": "5",
+    "ColorType": 3,
+    "CardColor": "path3",
+    "CardFront": "path3",
+    "CardBack": "path3",
+    "Weight": 4
   },
   {
-    "id": 31,
-    "num": "6",
-    "colorType": 3,
-    "icon": "path3"
+    "": "",
+    "ID": 31,
+    "CardChar": "6",
+    "ColorType": 3,
+    "CardColor": "path3",
+    "CardFront": "path3",
+    "CardBack": "path3",
+    "Weight": 5
   },
   {
-    "id": 32,
-    "num": "7",
-    "colorType": 3,
-    "icon": "path3"
+    "": "",
+    "ID": 32,
+    "CardChar": "7",
+    "ColorType": 3,
+    "CardColor": "path3",
+    "CardFront": "path3",
+    "CardBack": "path3",
+    "Weight": 6
   },
   {
-    "id": 33,
-    "num": "8",
-    "colorType": 3,
-    "icon": "path3"
+    "": "",
+    "ID": 33,
+    "CardChar": "8",
+    "ColorType": 3,
+    "CardColor": "path3",
+    "CardFront": "path3",
+    "CardBack": "path3",
+    "Weight": 7
   },
   {
-    "id": 34,
-    "num": "9",
-    "colorType": 3,
-    "icon": "path3"
+    "": "",
+    "ID": 34,
+    "CardChar": "9",
+    "ColorType": 3,
+    "CardColor": "path3",
+    "CardFront": "path3",
+    "CardBack": "path3",
+    "Weight": 8
   },
   {
-    "id": 35,
-    "num": "10",
-    "colorType": 3,
-    "icon": "path3"
+    "": "",
+    "ID": 35,
+    "CardChar": "10",
+    "ColorType": 3,
+    "CardColor": "path3",
+    "CardFront": "path3",
+    "CardBack": "path3",
+    "Weight": 9
   },
   {
-    "id": 36,
-    "num": "J",
-    "colorType": 3,
-    "icon": "path3"
+    "": "",
+    "ID": 36,
+    "CardChar": "J",
+    "ColorType": 3,
+    "CardColor": "path3",
+    "CardFront": "path3",
+    "CardBack": "path3",
+    "Weight": 10
   },
   {
-    "id": 37,
-    "num": "Q",
-    "colorType": 3,
-    "icon": "path3"
+    "": "",
+    "ID": 37,
+    "CardChar": "Q",
+    "ColorType": 3,
+    "CardColor": "path3",
+    "CardFront": "path3",
+    "CardBack": "path3",
+    "Weight": 11
   },
   {
-    "id": 38,
-    "num": "K",
-    "colorType": 3,
-    "icon": "path3"
+    "": "",
+    "ID": 38,
+    "CardChar": "K",
+    "ColorType": 3,
+    "CardColor": "path3",
+    "CardFront": "path3",
+    "CardBack": "path3",
+    "Weight": 12
   },
   {
-    "id": 39,
-    "num": "A",
-    "colorType": 3,
-    "icon": "path3"
+    "": "",
+    "ID": 39,
+    "CardChar": "A",
+    "ColorType": 3,
+    "CardColor": "path3",
+    "CardFront": "path3",
+    "CardBack": "path3",
+    "Weight": 13
   },
   {
-    "id": 40,
-    "num": "2",
-    "colorType": 4,
-    "icon": "path4"
+    "": "",
+    "ID": 40,
+    "CardChar": "2",
+    "ColorType": 4,
+    "CardColor": "path4",
+    "CardFront": "path4",
+    "CardBack": "path4",
+    "Weight": 1
   },
   {
-    "id": 41,
-    "num": "3",
-    "colorType": 4,
-    "icon": "path4"
+    "": "",
+    "ID": 41,
+    "CardChar": "3",
+    "ColorType": 4,
+    "CardColor": "path4",
+    "CardFront": "path4",
+    "CardBack": "path4",
+    "Weight": 2
   },
   {
-    "id": 42,
-    "num": "4",
-    "colorType": 4,
-    "icon": "path4"
+    "": "",
+    "ID": 42,
+    "CardChar": "4",
+    "ColorType": 4,
+    "CardColor": "path4",
+    "CardFront": "path4",
+    "CardBack": "path4",
+    "Weight": 3
   },
   {
-    "id": 43,
-    "num": "5",
-    "colorType": 4,
-    "icon": "path4"
+    "": "",
+    "ID": 43,
+    "CardChar": "5",
+    "ColorType": 4,
+    "CardColor": "path4",
+    "CardFront": "path4",
+    "CardBack": "path4",
+    "Weight": 4
   },
   {
-    "id": 44,
-    "num": "6",
-    "colorType": 4,
-    "icon": "path4"
+    "": "",
+    "ID": 44,
+    "CardChar": "6",
+    "ColorType": 4,
+    "CardColor": "path4",
+    "CardFront": "path4",
+    "CardBack": "path4",
+    "Weight": 5
   },
   {
-    "id": 45,
-    "num": "7",
-    "colorType": 4,
-    "icon": "path4"
+    "": "",
+    "ID": 45,
+    "CardChar": "7",
+    "ColorType": 4,
+    "CardColor": "path4",
+    "CardFront": "path4",
+    "CardBack": "path4",
+    "Weight": 6
   },
   {
-    "id": 46,
-    "num": "8",
-    "colorType": 4,
-    "icon": "path4"
+    "": "",
+    "ID": 46,
+    "CardChar": "8",
+    "ColorType": 4,
+    "CardColor": "path4",
+    "CardFront": "path4",
+    "CardBack": "path4",
+    "Weight": 7
   },
   {
-    "id": 47,
-    "num": "9",
-    "colorType": 4,
-    "icon": "path4"
+    "": "",
+    "ID": 47,
+    "CardChar": "9",
+    "ColorType": 4,
+    "CardColor": "path4",
+    "CardFront": "path4",
+    "CardBack": "path4",
+    "Weight": 8
   },
   {
-    "id": 48,
-    "num": "10",
-    "colorType": 4,
-    "icon": "path4"
+    "": "",
+    "ID": 48,
+    "CardChar": "10",
+    "ColorType": 4,
+    "CardColor": "path4",
+    "CardFront": "path4",
+    "CardBack": "path4",
+    "Weight": 9
   },
   {
-    "id": 49,
-    "num": "J",
-    "colorType": 4,
-    "icon": "path4"
+    "": "",
+    "ID": 49,
+    "CardChar": "J",
+    "ColorType": 4,
+    "CardColor": "path4",
+    "CardFront": "path4",
+    "CardBack": "path4",
+    "Weight": 10
   },
   {
-    "id": 50,
-    "num": "Q",
-    "colorType": 4,
-    "icon": "path4"
+    "": "",
+    "ID": 50,
+    "CardChar": "Q",
+    "ColorType": 4,
+    "CardColor": "path4",
+    "CardFront": "path4",
+    "CardBack": "path4",
+    "Weight": 11
   },
   {
-    "id": 51,
-    "num": "K",
-    "colorType": 4,
-    "icon": "path4"
+    "": "",
+    "ID": 51,
+    "CardChar": "K",
+    "ColorType": 4,
+    "CardColor": "path4",
+    "CardFront": "path4",
+    "CardBack": "path4",
+    "Weight": 12
   },
   {
-    "id": 52,
-    "num": "A",
-    "colorType": 4,
-    "icon": "path4"
+    "": "",
+    "ID": 52,
+    "CardChar": "A",
+    "ColorType": 4,
+    "CardColor": "path4",
+    "CardFront": "path4",
+    "CardBack": "path4",
+    "Weight": 13
   }
 ]

@@ -119,7 +119,7 @@ public class Excel2Json : MonoBehaviour
         // 获取第二行，用于确定数据类型
         var typeRow = table.Rows[1];
 
-        var jsonArray = rows.Skip(2).Select(row => columns.ToDictionary(column => table.Rows[0][column].ToString(), column =>
+        var jsonArray = rows.Skip(4).Select(row => columns.ToDictionary(column => table.Rows[0][column].ToString(), column =>
         {
             var cellValue = row[column].ToString();
             var dataType = typeRow[column].ToString(); // 第二行表示的数据类型

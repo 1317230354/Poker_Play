@@ -1,86 +1,194 @@
 [
   {
-    "id": 1,
-    "target": 4,
-    "maxnum": 5,
-    "basic": [],
-    "posX": [
+    "": "",
+    "ID": 1,
+    "CardPublic": [],
+    "PublicCardPosX": [
       20.5,
       40.5
     ],
-    "posY": [
+    "PublicCardPosY": [
       10.5,
       20.5
+    ],
+    "CardTable": "path1",
+    "CardOwn": [],
+    "OwnCardPosX": [
+      20.5,
+      40.5
+    ],
+    "OwnCardPosY": [
+      10.5,
+      20.5
+    ],
+    "CardMaxNum": 5,
+    "CardTargetType": [
+      4
+    ],
+    "ChallengeTime": 2,
+    "LockCard": [
+      0,
+      1
     ]
   },
   {
-    "id": 2,
-    "target": 5,
-    "maxnum": 5,
-    "basic": [],
-    "posX": [
+    "": "",
+    "ID": 2,
+    "CardPublic": [],
+    "PublicCardPosX": [
       20.5,
       40.5
     ],
-    "posY": [
+    "PublicCardPosY": [
       10.5,
       20.5
+    ],
+    "CardTable": "path2",
+    "CardOwn": [],
+    "OwnCardPosX": [
+      20.5,
+      40.5
+    ],
+    "OwnCardPosY": [
+      10.5,
+      20.5
+    ],
+    "CardMaxNum": 5,
+    "CardTargetType": [
+      5
+    ],
+    "ChallengeTime": 2,
+    "LockCard": [
+      0,
+      1
     ]
   },
   {
-    "id": 3,
-    "target": 6,
-    "maxnum": 5,
-    "basic": [],
-    "posX": [
+    "": "",
+    "ID": 3,
+    "CardPublic": [],
+    "PublicCardPosX": [
       20.5,
       40.5
     ],
-    "posY": [
+    "PublicCardPosY": [
       10.5,
       20.5
+    ],
+    "CardTable": "path3",
+    "CardOwn": [],
+    "OwnCardPosX": [
+      20.5,
+      40.5
+    ],
+    "OwnCardPosY": [
+      10.5,
+      20.5
+    ],
+    "CardMaxNum": 5,
+    "CardTargetType": [
+      6
+    ],
+    "ChallengeTime": 2,
+    "LockCard": [
+      0,
+      1
     ]
   },
   {
-    "id": 4,
-    "target": 7,
-    "maxnum": 5,
-    "basic": [],
-    "posX": [
+    "": "",
+    "ID": 4,
+    "CardPublic": [],
+    "PublicCardPosX": [
       20.5,
       40.5
     ],
-    "posY": [
+    "PublicCardPosY": [
       10.5,
       20.5
+    ],
+    "CardTable": "path4",
+    "CardOwn": [],
+    "OwnCardPosX": [
+      20.5,
+      40.5
+    ],
+    "OwnCardPosY": [
+      10.5,
+      20.5
+    ],
+    "CardMaxNum": 5,
+    "CardTargetType": [
+      7
+    ],
+    "ChallengeTime": 2,
+    "LockCard": [
+      0,
+      1
     ]
   },
   {
-    "id": 5,
-    "target": 8,
-    "maxnum": 5,
-    "basic": [],
-    "posX": [
+    "": "",
+    "ID": 5,
+    "CardPublic": [],
+    "PublicCardPosX": [
       20.5,
       40.5
     ],
-    "posY": [
+    "PublicCardPosY": [
       10.5,
       20.5
+    ],
+    "CardTable": "path5",
+    "CardOwn": [],
+    "OwnCardPosX": [
+      20.5,
+      40.5
+    ],
+    "OwnCardPosY": [
+      10.5,
+      20.5
+    ],
+    "CardMaxNum": 5,
+    "CardTargetType": [
+      8
+    ],
+    "ChallengeTime": 2,
+    "LockCard": [
+      0,
+      1
     ]
   },
   {
-    "id": 6,
-    "target": 1,
-    "maxnum": 5,
-    "basic": [],
-    "posX": [
+    "": "",
+    "ID": 6,
+    "CardPublic": [],
+    "PublicCardPosX": [
       20.5,
       40.5
     ],
-    "posY": [
+    "PublicCardPosY": [
       10.5,
       20.5
+    ],
+    "CardTable": "path6",
+    "CardOwn": [],
+    "OwnCardPosX": [
+      20.5,
+      40.5
+    ],
+    "OwnCardPosY": [
+      10.5,
+      20.5
+    ],
+    "CardMaxNum": 5,
+    "CardTargetType": [
+      1
+    ],
+    "ChallengeTime": 2,
+    "LockCard": [
+      0,
+      1
     ]
   }
 ]

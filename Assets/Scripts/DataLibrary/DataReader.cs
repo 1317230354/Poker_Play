@@ -4,12 +4,16 @@ using UnityEngine;
 
 public class DataReader : MonoBehaviour
 {
-    Dictionary<int, CardBean> cardDic;
-    Dictionary<int, TargetBean> targetDic;
-    Dictionary<int, LevelBean> levelDic;
+    private static DataReader instance;
+    public static DataReader Instance => instance;
+
+    public Dictionary<int, CardBean> cardDic;
+    public Dictionary<int, TargetBean> targetDic;
+    public Dictionary<int, LevelBean> levelDic;
 
     private void Awake()
     {
+        instance = this;
         cardDic = new Dictionary<int, CardBean>(); targetDic = new Dictionary<int, TargetBean>(); levelDic = new Dictionary<int, LevelBean>();//初始化
         //将数据读取到字典中进行存储
         List<CardBean> cardLibrary = JsonMgr.Instance.LoadData<List<CardBean>>("play_poker_card");
@@ -17,23 +21,23 @@ public class DataReader : MonoBehaviour
         List<LevelBean> levelLibrary = JsonMgr.Instance.LoadData<List<LevelBean>>("play_poker_level");
         foreach(CardBean card in cardLibrary)
         {
-            cardDic.Add(card.id,card);
+            cardDic.Add(card.ID,card);
         }
         foreach(TargetBean target in targetLibrary)
         {
-            targetDic.Add(target.id, target);
+            targetDic.Add(target.ID, target);
         }
         foreach(LevelBean level in levelLibrary)
         {
-            levelDic.Add(level.id, level);
+            levelDic.Add(level.ID, level);
         }
 
     }
     private void Start()
     {
-        //print(cardDic[1]);
-        //print(targetDic[1]);
-        //print(levelDic[1]);
+        print(cardDic[1]);
+        print(targetDic[1]);
+        print(levelDic[1]);
     }
     
 }

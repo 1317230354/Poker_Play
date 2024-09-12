@@ -4,8 +4,14 @@ using UnityEngine;
 
 public class CardBean
 {
-    public int id;
-    public string num;
-    public int colorType;
-    public string icon;
+    public int ID;
+    public string CardChar;
+    public int ColorType;
+    public string CardColor;
+    public string CardFront;
+    public string CardBack;
+    public int Weight;
+
+
+   
 }
