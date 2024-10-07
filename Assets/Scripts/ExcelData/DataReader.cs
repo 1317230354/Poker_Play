@@ -33,11 +33,13 @@ public class DataReader : MonoBehaviour
         }
 
     }
-    private void Start()
+    public void DestroyInstance()
     {
-        print(cardDic[1]);
-        print(targetDic[1]);
-        print(levelDic[1]);
+        if (instance != null)
+        {
+            Destroy(instance.gameObject);
+            instance = null;  // 确保静态引用被清空
+        }
     }
-    
+
 }

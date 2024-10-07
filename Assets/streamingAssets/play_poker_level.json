@@ -1,194 +1,412 @@
 [
   {
-    "": "",
     "ID": 1,
-    "CardPublic": [],
     "PublicCardPosX": [
-      20.5,
-      40.5
+      -140.0,
+      0.0,
+      140.0,
+      -70.0,
+      70.0
     ],
     "PublicCardPosY": [
-      10.5,
-      20.5
+      200.0,
+      200.0,
+      200.0,
+      10.0,
+      10.0
     ],
-    "CardTable": "path1",
-    "CardOwn": [],
+    "CardTable": "heitao.png",
     "OwnCardPosX": [
-      20.5,
-      40.5
+      -70.0,
+      70.0
     ],
     "OwnCardPosY": [
-      10.5,
-      20.5
+      -190.0,
+      -190.0
     ],
-    "CardMaxNum": 5,
+    "ShowCardNum": [
+      3,
+      1,
+      1
+    ],
+    "NPC": [
+      "夜长生",
+      "江玉书",
+      "素雪",
+      "赵活",
+      "瑞生"
+    ],
+    "NPCChips": [
+      1000,
+      1000,
+      1000,
+      1000,
+      1000
+    ],
+    "NPCPosX": [
+      200.0,
+      2.0,
+      2.0,
+      510.0,
+      510.0
+    ],
+    "NPCPosY": [
+      400.0,
+      -120.0,
+      230.0,
+      230.0,
+      -120.0
+    ],
     "CardTargetType": [
       4
     ],
+    "Bet": 300,
+    "CardOwn": [],
+    "NpcOwn": [],
     "ChallengeTime": 2,
-    "LockCard": [
-      0,
-      1
+    "CardPublic": [],
+    "BaseChips": [
+      50,
+      100,
+      150
     ]
   },
   {
-    "": "",
     "ID": 2,
-    "CardPublic": [],
     "PublicCardPosX": [
-      20.5,
-      40.5
+      -140.0,
+      0.0,
+      140.0,
+      -70.0,
+      70.0
     ],
     "PublicCardPosY": [
-      10.5,
-      20.5
+      200.0,
+      200.0,
+      200.0,
+      10.0,
+      10.0
     ],
-    "CardTable": "path2",
-    "CardOwn": [],
+    "CardTable": "heitao.png",
     "OwnCardPosX": [
-      20.5,
-      40.5
+      -70.0,
+      70.0
     ],
     "OwnCardPosY": [
-      10.5,
-      20.5
+      -190.0,
+      -190.0
     ],
-    "CardMaxNum": 5,
+    "ShowCardNum": [
+      3,
+      1,
+      1
+    ],
+    "NPC": [
+      "夜长生",
+      "江玉书",
+      "素雪",
+      "赵活"
+    ],
+    "NPCChips": [
+      1000,
+      1000,
+      1000
+    ],
+    "NPCPosX": [
+      200.0,
+      2.0,
+      2.0,
+      510.0,
+      510.0
+    ],
+    "NPCPosY": [
+      400.0,
+      -120.0,
+      230.0,
+      230.0,
+      -120.0
+    ],
     "CardTargetType": [
       5
     ],
+    "Bet": 300,
+    "CardOwn": [],
+    "NpcOwn": [],
     "ChallengeTime": 2,
-    "LockCard": [
-      0,
-      1
+    "CardPublic": [],
+    "BaseChips": [
+      50,
+      100,
+      150
     ]
   },
   {
-    "": "",
     "ID": 3,
-    "CardPublic": [],
     "PublicCardPosX": [
-      20.5,
-      40.5
+      -140.0,
+      0.0,
+      140.0,
+      -70.0,
+      70.0
     ],
     "PublicCardPosY": [
-      10.5,
-      20.5
+      200.0,
+      200.0,
+      200.0,
+      10.0,
+      10.0
     ],
-    "CardTable": "path3",
-    "CardOwn": [],
+    "CardTable": "heitao.png",
     "OwnCardPosX": [
-      20.5,
-      40.5
+      -70.0,
+      70.0
     ],
     "OwnCardPosY": [
-      10.5,
-      20.5
+      -190.0,
+      -190.0
     ],
-    "CardMaxNum": 5,
+    "ShowCardNum": [
+      3,
+      1,
+      1
+    ],
+    "NPC": [
+      "夜长生",
+      "江玉书",
+      "素雪"
+    ],
+    "NPCChips": [
+      1000,
+      1000,
+      1000
+    ],
+    "NPCPosX": [
+      200.0,
+      2.0,
+      2.0,
+      510.0,
+      510.0
+    ],
+    "NPCPosY": [
+      400.0,
+      -120.0,
+      230.0,
+      230.0,
+      -120.0
+    ],
     "CardTargetType": [
       6
     ],
+    "Bet": 300,
+    "CardOwn": [],
+    "NpcOwn": [],
     "ChallengeTime": 2,
-    "LockCard": [
-      0,
-      1
+    "CardPublic": [],
+    "BaseChips": [
+      50,
+      100,
+      150
     ]
   },
   {
-    "": "",
     "ID": 4,
-    "CardPublic": [],
     "PublicCardPosX": [
-      20.5,
-      40.5
+      -140.0,
+      0.0,
+      140.0,
+      -70.0,
+      70.0
     ],
     "PublicCardPosY": [
-      10.5,
-      20.5
+      200.0,
+      200.0,
+      200.0,
+      10.0,
+      10.0
     ],
-    "CardTable": "path4",
-    "CardOwn": [],
+    "CardTable": "heitao.png",
     "OwnCardPosX": [
-      20.5,
-      40.5
+      -70.0,
+      70.0
     ],
     "OwnCardPosY": [
-      10.5,
-      20.5
+      -190.0,
+      -190.0
     ],
-    "CardMaxNum": 5,
+    "ShowCardNum": [
+      3,
+      1,
+      1
+    ],
+    "NPC": [
+      "夜长生",
+      "江玉书"
+    ],
+    "NPCChips": [
+      1000,
+      1000,
+      1000
+    ],
+    "NPCPosX": [
+      200.0,
+      2.0,
+      2.0,
+      510.0,
+      510.0
+    ],
+    "NPCPosY": [
+      400.0,
+      -120.0,
+      230.0,
+      230.0,
+      -120.0
+    ],
     "CardTargetType": [
       7
     ],
+    "Bet": 300,
+    "CardOwn": [],
+    "NpcOwn": [],
     "ChallengeTime": 2,
-    "LockCard": [
-      0,
-      1
+    "CardPublic": [],
+    "BaseChips": [
+      50,
+      100,
+      150
     ]
   },
   {
-    "": "",
     "ID": 5,
-    "CardPublic": [],
     "PublicCardPosX": [
-      20.5,
-      40.5
+      -140.0,
+      0.0,
+      140.0,
+      -70.0,
+      70.0
     ],
     "PublicCardPosY": [
-      10.5,
-      20.5
+      200.0,
+      200.0,
+      200.0,
+      10.0,
+      10.0
     ],
-    "CardTable": "path5",
-    "CardOwn": [],
+    "CardTable": "heitao.png",
     "OwnCardPosX": [
-      20.5,
-      40.5
+      -70.0,
+      70.0
     ],
     "OwnCardPosY": [
-      10.5,
-      20.5
+      -190.0,
+      -190.0
     ],
-    "CardMaxNum": 5,
+    "ShowCardNum": [
+      3,
+      1,
+      1
+    ],
+    "NPC": [
+      "夜长生"
+    ],
+    "NPCChips": [
+      1000,
+      1000,
+      1000
+    ],
+    "NPCPosX": [
+      200.0,
+      2.0,
+      2.0,
+      510.0,
+      510.0
+    ],
+    "NPCPosY": [
+      400.0,
+      -120.0,
+      230.0,
+      230.0,
+      -120.0
+    ],
     "CardTargetType": [
       8
     ],
+    "Bet": 300,
+    "CardOwn": [],
+    "NpcOwn": [],
     "ChallengeTime": 2,
-    "LockCard": [
-      0,
-      1
+    "CardPublic": [],
+    "BaseChips": [
+      50,
+      100,
+      150
     ]
   },
   {
-    "": "",
     "ID": 6,
-    "CardPublic": [],
     "PublicCardPosX": [
-      20.5,
-      40.5
+      -140.0,
+      0.0,
+      140.0,
+      -70.0,
+      70.0
     ],
     "PublicCardPosY": [
-      10.5,
-      20.5
+      200.0,
+      200.0,
+      200.0,
+      10.0,
+      10.0
     ],
-    "CardTable": "path6",
-    "CardOwn": [],
+    "CardTable": "heitao.png",
     "OwnCardPosX": [
-      20.5,
-      40.5
+      -70.0,
+      70.0
     ],
     "OwnCardPosY": [
-      10.5,
-      20.5
+      -190.0,
+      -190.0
     ],
-    "CardMaxNum": 5,
+    "ShowCardNum": [
+      3,
+      1,
+      1
+    ],
+    "NPC": [
+      "夜长生",
+      "江玉书",
+      "素雪"
+    ],
+    "NPCChips": [
+      1000,
+      1000,
+      1000
+    ],
+    "NPCPosX": [
+      200.0,
+      2.0,
+      2.0,
+      510.0,
+      510.0
+    ],
+    "NPCPosY": [
+      400.0,
+      -120.0,
+      230.0,
+      230.0,
+      -120.0
+    ],
     "CardTargetType": [
       1
     ],
+    "Bet": 300,
+    "CardOwn": [],
+    "NpcOwn": [],
     "ChallengeTime": 2,
-    "LockCard": [
-      0,
-      1
+    "CardPublic": [],
+    "BaseChips": [
+      50,
+      100,
+      150
     ]
   }
 ]

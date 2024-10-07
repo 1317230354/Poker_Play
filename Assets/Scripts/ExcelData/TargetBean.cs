@@ -10,7 +10,6 @@ public class TargetBean
     public string Name;
     public List<string> Condiction;
     public int ColorType;
-    public int TargetIndex;
     public int Weight;
 }
 

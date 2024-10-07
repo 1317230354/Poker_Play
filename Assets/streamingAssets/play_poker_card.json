@@ -1,522 +1,470 @@
 [
   {
-    "": "",
     "ID": 1,
     "CardChar": "2",
     "ColorType": 1,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 1
+    "CardColor": "heitao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 13
   },
   {
-    "": "",
     "ID": 2,
     "CardChar": "3",
     "ColorType": 1,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 2
+    "CardColor": "heitao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 12
   },
   {
-    "": "",
     "ID": 3,
     "CardChar": "4",
     "ColorType": 1,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 3
+    "CardColor": "heitao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 11
   },
   {
-    "": "",
     "ID": 4,
     "CardChar": "5",
     "ColorType": 1,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 4
+    "CardColor": "heitao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 10
   },
   {
-    "": "",
     "ID": 5,
     "CardChar": "6",
     "ColorType": 1,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 5
+    "CardColor": "heitao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 9
   },
   {
-    "": "",
     "ID": 6,
     "CardChar": "7",
     "ColorType": 1,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 6
+    "CardColor": "heitao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 8
   },
   {
-    "": "",
     "ID": 7,
     "CardChar": "8",
     "ColorType": 1,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
+    "CardColor": "heitao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
     "Weight": 7
   },
   {
-    "": "",
     "ID": 8,
     "CardChar": "9",
     "ColorType": 1,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 8
+    "CardColor": "heitao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 6
   },
   {
-    "": "",
     "ID": 9,
     "CardChar": "10",
     "ColorType": 1,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 9
+    "CardColor": "heitao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 5
   },
   {
-    "": "",
     "ID": 10,
     "CardChar": "J",
     "ColorType": 1,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 10
+    "CardColor": "heitao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 4
   },
   {
-    "": "",
     "ID": 11,
     "CardChar": "Q",
     "ColorType": 1,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 11
+    "CardColor": "heitao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 3
   },
   {
-    "": "",
     "ID": 12,
     "CardChar": "K",
     "ColorType": 1,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 12
+    "CardColor": "heitao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 2
   },
   {
-    "": "",
     "ID": 13,
     "CardChar": "A",
     "ColorType": 1,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 13
+    "CardColor": "heitao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 1
   },
   {
-    "": "",
     "ID": 14,
     "CardChar": "2",
     "ColorType": 2,
-    "CardColor": "path2",
-    "CardFront": "path2",
-    "CardBack": "path2",
-    "Weight": 1
+    "CardColor": "hongtao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 13
   },
   {
-    "": "",
     "ID": 15,
     "CardChar": "3",
     "ColorType": 2,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 2
+    "CardColor": "hongtao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 12
   },
   {
-    "": "",
     "ID": 16,
     "CardChar": "4",
     "ColorType": 2,
-    "CardColor": "path2",
-    "CardFront": "path2",
-    "CardBack": "path2",
-    "Weight": 3
+    "CardColor": "hongtao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 11
   },
   {
-    "": "",
     "ID": 17,
     "CardChar": "5",
     "ColorType": 2,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 4
+    "CardColor": "hongtao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 10
   },
   {
-    "": "",
     "ID": 18,
     "CardChar": "6",
     "ColorType": 2,
-    "CardColor": "path2",
-    "CardFront": "path2",
-    "CardBack": "path2",
-    "Weight": 5
+    "CardColor": "hongtao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 9
   },
   {
-    "": "",
     "ID": 19,
     "CardChar": "7",
     "ColorType": 2,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 6
+    "CardColor": "hongtao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 8
   },
   {
-    "": "",
     "ID": 20,
     "CardChar": "8",
     "ColorType": 2,
-    "CardColor": "path2",
-    "CardFront": "path2",
-    "CardBack": "path2",
+    "CardColor": "hongtao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
     "Weight": 7
   },
   {
-    "": "",
     "ID": 21,
     "CardChar": "9",
     "ColorType": 2,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 8
+    "CardColor": "hongtao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 6
   },
   {
-    "": "",
     "ID": 22,
     "CardChar": "10",
     "ColorType": 2,
-    "CardColor": "path2",
-    "CardFront": "path2",
-    "CardBack": "path2",
-    "Weight": 9
+    "CardColor": "hongtao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 5
   },
   {
-    "": "",
     "ID": 23,
     "CardChar": "J",
     "ColorType": 2,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 10
+    "CardColor": "hongtao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 4
   },
   {
-    "": "",
     "ID": 24,
     "CardChar": "Q",
     "ColorType": 2,
-    "CardColor": "path2",
-    "CardFront": "path2",
-    "CardBack": "path2",
-    "Weight": 11
+    "CardColor": "hongtao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 3
   },
   {
-    "": "",
     "ID": 25,
     "CardChar": "K",
     "ColorType": 2,
-    "CardColor": "path1",
-    "CardFront": "path1",
-    "CardBack": "path1",
-    "Weight": 12
+    "CardColor": "hongtao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 2
   },
   {
-    "": "",
     "ID": 26,
     "CardChar": "A",
     "ColorType": 2,
-    "CardColor": "path2",
-    "CardFront": "path2",
-    "CardBack": "path2",
-    "Weight": 13
+    "CardColor": "hongtao",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 1
   },
   {
-    "": "",
     "ID": 27,
     "CardChar": "2",
     "ColorType": 3,
-    "CardColor": "path3",
-    "CardFront": "path3",
-    "CardBack": "path3",
-    "Weight": 1
+    "CardColor": "meihua",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 13
   },
   {
-    "": "",
     "ID": 28,
     "CardChar": "3",
     "ColorType": 3,
-    "CardColor": "path3",
-    "CardFront": "path3",
-    "CardBack": "path3",
-    "Weight": 2
+    "CardColor": "meihua",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 12
   },
   {
-    "": "",
     "ID": 29,
     "CardChar": "4",
     "ColorType": 3,
-    "CardColor": "path3",
-    "CardFront": "path3",
-    "CardBack": "path3",
-    "Weight": 3
+    "CardColor": "meihua",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 11
   },
   {
-    "": "",
     "ID": 30,
     "CardChar": "5",
     "ColorType": 3,
-    "CardColor": "path3",
-    "CardFront": "path3",
-    "CardBack": "path3",
-    "Weight": 4
+    "CardColor": "meihua",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 10
   },
   {
-    "": "",
     "ID": 31,
     "CardChar": "6",
     "ColorType": 3,
-    "CardColor": "path3",
-    "CardFront": "path3",
-    "CardBack": "path3",
-    "Weight": 5
+    "CardColor": "meihua",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 9
   },
   {
-    "": "",
     "ID": 32,
     "CardChar": "7",
     "ColorType": 3,
-    "CardColor": "path3",
-    "CardFront": "path3",
-    "CardBack": "path3",
-    "Weight": 6
+    "CardColor": "meihua",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 8
   },
   {
-    "": "",
     "ID": 33,
     "CardChar": "8",
     "ColorType": 3,
-    "CardColor": "path3",
-    "CardFront": "path3",
-    "CardBack": "path3",
+    "CardColor": "meihua",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
     "Weight": 7
   },
   {
-    "": "",
     "ID": 34,
     "CardChar": "9",
     "ColorType": 3,
-    "CardColor": "path3",
-    "CardFront": "path3",
-    "CardBack": "path3",
-    "Weight": 8
-  },
-  {
-    "": "",
-    "ID": 35,
-    "CardChar": "10",
-    "ColorType": 3,
-    "CardColor": "path3",
-    "CardFront": "path3",
-    "CardBack": "path3",
-    "Weight": 9
-  },
-  {
-    "": "",
-    "ID": 36,
-    "CardChar": "J",
-    "ColorType": 3,
-    "CardColor": "path3",
-    "CardFront": "path3",
-    "CardBack": "path3",
-    "Weight": 10
-  },
-  {
-    "": "",
-    "ID": 37,
-    "CardChar": "Q",
-    "ColorType": 3,
-    "CardColor": "path3",
-    "CardFront": "path3",
-    "CardBack": "path3",
-    "Weight": 11
-  },
-  {
-    "": "",
-    "ID": 38,
-    "CardChar": "K",
-    "ColorType": 3,
-    "CardColor": "path3",
-    "CardFront": "path3",
-    "CardBack": "path3",
-    "Weight": 12
-  },
-  {
-    "": "",
-    "ID": 39,
-    "CardChar": "A",
-    "ColorType": 3,
-    "CardColor": "path3",
-    "CardFront": "path3",
-    "CardBack": "path3",
-    "Weight": 13
-  },
-  {
-    "": "",
-    "ID": 40,
-    "CardChar": "2",
-    "ColorType": 4,
-    "CardColor": "path4",
-    "CardFront": "path4",
-    "CardBack": "path4",
-    "Weight": 1
-  },
-  {
-    "": "",
-    "ID": 41,
-    "CardChar": "3",
-    "ColorType": 4,
-    "CardColor": "path4",
-    "CardFront": "path4",
-    "CardBack": "path4",
-    "Weight": 2
-  },
-  {
-    "": "",
-    "ID": 42,
-    "CardChar": "4",
-    "ColorType": 4,
-    "CardColor": "path4",
-    "CardFront": "path4",
-    "CardBack": "path4",
-    "Weight": 3
-  },
-  {
-    "": "",
-    "ID": 43,
-    "CardChar": "5",
-    "ColorType": 4,
-    "CardColor": "path4",
-    "CardFront": "path4",
-    "CardBack": "path4",
-    "Weight": 4
-  },
-  {
-    "": "",
-    "ID": 44,
-    "CardChar": "6",
-    "ColorType": 4,
-    "CardColor": "path4",
-    "CardFront": "path4",
-    "CardBack": "path4",
-    "Weight": 5
-  },
-  {
-    "": "",
-    "ID": 45,
-    "CardChar": "7",
-    "ColorType": 4,
-    "CardColor": "path4",
-    "CardFront": "path4",
-    "CardBack": "path4",
+    "CardColor": "meihua",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
     "Weight": 6
   },
   {
-    "": "",
-    "ID": 46,
-    "CardChar": "8",
-    "ColorType": 4,
-    "CardColor": "path4",
-    "CardFront": "path4",
-    "CardBack": "path4",
-    "Weight": 7
-  },
-  {
-    "": "",
-    "ID": 47,
-    "CardChar": "9",
-    "ColorType": 4,
-    "CardColor": "path4",
-    "CardFront": "path4",
-    "CardBack": "path4",
-    "Weight": 8
-  },
-  {
-    "": "",
-    "ID": 48,
+    "ID": 35,
     "CardChar": "10",
-    "ColorType": 4,
-    "CardColor": "path4",
-    "CardFront": "path4",
-    "CardBack": "path4",
-    "Weight": 9
+    "ColorType": 3,
+    "CardColor": "meihua",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 5
   },
   {
-    "": "",
-    "ID": 49,
+    "ID": 36,
     "CardChar": "J",
-    "ColorType": 4,
-    "CardColor": "path4",
-    "CardFront": "path4",
-    "CardBack": "path4",
-    "Weight": 10
+    "ColorType": 3,
+    "CardColor": "meihua",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 4
   },
   {
-    "": "",
-    "ID": 50,
+    "ID": 37,
     "CardChar": "Q",
-    "ColorType": 4,
-    "CardColor": "path4",
-    "CardFront": "path4",
-    "CardBack": "path4",
-    "Weight": 11
+    "ColorType": 3,
+    "CardColor": "meihua",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 3
   },
   {
-    "": "",
-    "ID": 51,
+    "ID": 38,
     "CardChar": "K",
+    "ColorType": 3,
+    "CardColor": "meihua",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 2
+  },
+  {
+    "ID": 39,
+    "CardChar": "A",
+    "ColorType": 3,
+    "CardColor": "meihua",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 1
+  },
+  {
+    "ID": 40,
+    "CardChar": "2",
     "ColorType": 4,
-    "CardColor": "path4",
-    "CardFront": "path4",
-    "CardBack": "path4",
+    "CardColor": "fangkuai",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 13
+  },
+  {
+    "ID": 41,
+    "CardChar": "3",
+    "ColorType": 4,
+    "CardColor": "fangkuai",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
     "Weight": 12
   },
   {
-    "": "",
+    "ID": 42,
+    "CardChar": "4",
+    "ColorType": 4,
+    "CardColor": "fangkuai",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 11
+  },
+  {
+    "ID": 43,
+    "CardChar": "5",
+    "ColorType": 4,
+    "CardColor": "fangkuai",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 10
+  },
+  {
+    "ID": 44,
+    "CardChar": "6",
+    "ColorType": 4,
+    "CardColor": "fangkuai",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 9
+  },
+  {
+    "ID": 45,
+    "CardChar": "7",
+    "ColorType": 4,
+    "CardColor": "fangkuai",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 8
+  },
+  {
+    "ID": 46,
+    "CardChar": "8",
+    "ColorType": 4,
+    "CardColor": "fangkuai",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 7
+  },
+  {
+    "ID": 47,
+    "CardChar": "9",
+    "ColorType": 4,
+    "CardColor": "fangkuai",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 6
+  },
+  {
+    "ID": 48,
+    "CardChar": "10",
+    "ColorType": 4,
+    "CardColor": "fangkuai",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 5
+  },
+  {
+    "ID": 49,
+    "CardChar": "J",
+    "ColorType": 4,
+    "CardColor": "fangkuai",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 4
+  },
+  {
+    "ID": 50,
+    "CardChar": "Q",
+    "ColorType": 4,
+    "CardColor": "fangkuai",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 3
+  },
+  {
+    "ID": 51,
+    "CardChar": "K",
+    "ColorType": 4,
+    "CardColor": "fangkuai",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 2
+  },
+  {
     "ID": 52,
     "CardChar": "A",
     "ColorType": 4,
-    "CardColor": "path4",
-    "CardFront": "path4",
-    "CardBack": "path4",
-    "Weight": 13
+    "CardColor": "fangkuai",
+    "CardFront": "heitao.png",
+    "CardBack": "heitao.png",
+    "Weight": 1
   }
 ]

@@ -114,97 +114,98 @@ public class Excel2Json : MonoBehaviour
     {
         var table = dataSet.Tables[0];
         var rows = table.Rows.Cast<DataRow>();
-        var columns = table.Columns.Cast<DataColumn>();
+        var columns = table.Columns.Cast<DataColumn>().Skip(1); // 跳过第一列
 
         // 获取第二行，用于确定数据类型
         var typeRow = table.Rows[1];
 
-        var jsonArray = rows.Skip(4).Select(row => columns.ToDictionary(column => table.Rows[0][column].ToString(), column =>
-        {
-            var cellValue = row[column].ToString();
-            var dataType = typeRow[column].ToString(); // 第二行表示的数据类型
+        var jsonArray = rows.Skip(4).Select(row => columns
+            .Where(column => !string.IsNullOrEmpty(row[column]?.ToString())) // 忽略数据为空的列
+            .ToDictionary(column => table.Rows[0][column].ToString(), column =>
+            {
+                var cellValue = row[column].ToString();
+                var dataType = typeRow[column].ToString(); // 第二行表示的数据类型
 
             // 根据第二行的类型进行数据转换
-            switch (dataType.ToLower())
-            {
-                case "int":
-                    if (int.TryParse(cellValue, out int intValue))
-                        return intValue;
-                    break;
+                switch (dataType.ToLower())
+                {
+                    case "int":
+                        if (int.TryParse(cellValue, out int intValue))
+                            return intValue;
+                        break;
 
-                case "float":
-                    if (float.TryParse(cellValue, out float floatValue))
-                        return floatValue;
-                    break;
-                case "string":
-                    return cellValue;
+                    case "float":
+                        if (float.TryParse(cellValue, out float floatValue))
+                            return floatValue;
+                        break;
+                    case "string":
+                        return cellValue;
 
-                case "bool":
-                    if (bool.TryParse(cellValue, out bool boolValue))
-                        return boolValue;
-                    break;
-                case "intarray": // int类型的数组，以逗号分隔
-                    return cellValue.Split('|')
+                    case "bool":
+                        if (bool.TryParse(cellValue, out bool boolValue))
+                            return boolValue;
+                        break;
+                    case "intarray": // int类型的数组，以逗号分隔
+                        return cellValue.Split('|')
                         .Select(item => int.TryParse(item.Trim(), out int intResult) ? intResult : (int?)null)
                         .Where(item => item.HasValue)
                         .Select(item => item.Value)
                         .ToArray();
 
-                case "floatarray": // float类型的数组，以逗号分隔
-                    return cellValue.Split('|')
+                    case "floatarray": // float类型的数组，以逗号分隔
+                        return cellValue.Split('|')
                         .Select(item => float.TryParse(item.Trim(), out float floatResult) ? floatResult : (float?)null)
                         .Where(item => item.HasValue)
                         .Select(item => item.Value)
                         .ToArray();
 
-                case "stringarray": // string类型的数组，以逗号分隔
-                    return cellValue.Split('|')
+                    case "stringarray": // string类型的数组，以逗号分隔
+                        return cellValue.Split('|')
                         .Select(item => item.Trim())
                         .Where(item => !string.IsNullOrEmpty(item))
                         .ToArray();
 
-                case "custom": // 自定义类型处理
-                    return CustomExcelArray((value) =>
-                    {
+                    case "custom": // 自定义类型处理
+                        return CustomExcelArray((value) =>
+                        {
                         // 这里根据需要处理自定义类型
-                        return new List<string>(); // 这里返回你需要的自定义对象
-                    });
+                            return new List<string>(); // 这里返回你需要的自定义对象
+                        });
 
-
-                default: // 默认当做字符串处理
-                    return cellValue;
-            }
+                    default: // 默认当做字符串处理
+                        return cellValue;
+                }
 
             // 如果转换失败，返回原始字符串
-            return cellValue;
+                return cellValue;
 
             // 自定义数组类型处理方法
-            object CustomExcelArray<T>(Func<string[], T> setValue)
-            {
-                if (cellValue.Contains("|"))
+                object CustomExcelArray<T>(Func<string[], T> setValue)
                 {
-                    string[] customString = cellValue
+                    if (cellValue.Contains("|"))
+                    {
+                        string[] customString = cellValue
                         .Split('|')
                         .Select(item => item.Trim())
                         .Where(item => !string.IsNullOrEmpty(item))
                         .ToArray();
-                    List<T> TArray = new List<T>();
-                    foreach (var oneString in customString)
-                    {
-                        var Elements = oneString.Split(',');
-                        T element = setValue.Invoke(Elements);
-                        TArray.Add(element);
+                        List<T> TArray = new List<T>();
+                        foreach (var oneString in customString)
+                        {
+                            var Elements = oneString.Split(',');
+                            T element = setValue.Invoke(Elements);
+                            TArray.Add(element);
+                        }
+                        return TArray;
                     }
-                    return TArray;
+                    else
+                    {
+                        var Elements = cellValue.Split(',');
+                        return setValue.Invoke(Elements);
+                    }
                 }
-                else
-                {
-                    var Elements = cellValue.Split(',');
-                    return setValue.Invoke(Elements);
-                }
-            }
 
-        })).ToArray();
+            })).ToArray();
 
         return JsonConvert.SerializeObject(jsonArray, Formatting.Indented);
     }
